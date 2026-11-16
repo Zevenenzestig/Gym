@@ -53,5 +53,3 @@ Vertex/
 ├── js/              # логика сайта, авторизация, кабинет и админ-панель
 └── images/          # изображения для карточек направлений
 ```
-
-Чтобы заменить фотографии, сохраните файлы в `images/` под именами `fitness.jpg`, `yoga.jpg`, `boxing.jpg`, `crossfit.jpg`, `swimming.jpg` и `strength.jpg`.
